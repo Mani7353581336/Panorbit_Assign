@@ -1,0 +1,21 @@
+.profile{
+    padding: 50px;
+    font-weight:400;
+    font-size: 20px;
+    display: flex;
+    text-align:center;
+    margin-top: 20px;
+}
+
+.profile1{
+    display: flex;
+    
+}
+
+.profile2{
+flex: 1;
+}
+
+.profile3{
+text-align:center;padding: 50px;
+}
